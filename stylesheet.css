@@ -1,0 +1,19 @@
+#Intro {
+	font-size: 150%;
+	margin: 1% 0% 0% 1%;
+}
+
+.box {
+	font-family:'Ubuntu', sans-serif;
+    position:relative;
+	background-color: lightgrey;
+    left: 2%;
+    top: 1%;
+  	border:solid 1px;
+    padding:10px 10px;
+    width: 90%;
+}
+
+#Terraria {
+	font-size: 110%;
+}
