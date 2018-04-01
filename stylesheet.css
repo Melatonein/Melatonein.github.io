@@ -8,8 +8,9 @@
     position: relative;
 	background-color: lightgrey;
   	border: solid 0.1em;
+  	left: 2%;
   	padding: 1% 1%;
-    width: 90%;
+    width: 95%;
 }
 
 #Terraria {
@@ -28,10 +29,17 @@
 	border-right: 0.1em solid black;
 	border-bottom: 0.1em solid black;
 	border-left: 0.1em solid black;
-	width: 90%;
+	left: 2%;
+	width: 95%;
 }
 
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+}
+
+#GTASAButton {
+	position: absolute;
+	right: 2%;
+	top: 12%;
 }
