@@ -5,15 +5,33 @@
 
 .box {
 	font-family:'Ubuntu', sans-serif;
-    position:relative;
+    position: relative;
 	background-color: lightgrey;
-    left: 2%;
-    top: 1%;
-  	border:solid 1px;
-    padding:10px 10px;
+  	border: solid 0.1em;
+  	padding: 1% 1%;
     width: 90%;
 }
 
 #Terraria {
 	font-size: 110%;
+}
+
+#TerrariaButton {
+	position: absolute;
+	right: 2%;
+	top: 12%;
+}
+
+.collapse {
+	position: relative;
+	background-color: lightgrey;
+	border-right: 0.1em solid black;
+	border-bottom: 0.1em solid black;
+	border-left: 0.1em solid black;
+	width: 90%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
