@@ -8,38 +8,26 @@
     position: relative;
 	background-color: lightgrey;
   	border: solid 0.1em;
-  	left: 2%;
-  	padding: 1% 1%;
+  	margin: 0em 1em 1em 2em;
+    padding-top: 0.5%;
+  	padding-bottom: 0.5%;
     width: 95%;
 }
 
-#Terraria {
+.BoxTitle {
 	font-size: 110%;
+	margin-top: 0.3%;
+	margin-bottom: 0.5%;
+	margin-left: 1%;
 }
 
-#TerrariaButton {
+.dropdownbutton {
 	position: absolute;
 	right: 2%;
 	top: 12%;
-}
-
-.collapse {
-	position: relative;
-	background-color: lightgrey;
-	border-right: 0.1em solid black;
-	border-bottom: 0.1em solid black;
-	border-left: 0.1em solid black;
-	left: 2%;
-	width: 95%;
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 0.1em solid black;
     border-collapse: collapse;
-}
-
-#GTASAButton {
-	position: absolute;
-	right: 2%;
-	top: 12%;
 }
