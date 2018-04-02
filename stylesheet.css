@@ -3,7 +3,7 @@
 	margin: 1% 0% 0% 1%;
 }
 
-.box {
+.Box {
 	font-family:'Ubuntu', sans-serif;
     position: relative;
 	background-color: lightgrey;
@@ -21,7 +21,7 @@
 	margin-left: 1%;
 }
 
-.dropdownbutton {
+.DropDownButton {
 	position: absolute;
 	right: 2%;
 	top: 12%;
@@ -30,4 +30,8 @@
 table, th, td {
     border: 0.1em solid black;
     border-collapse: collapse;
+}
+
+.DropBoxText {
+	
 }
